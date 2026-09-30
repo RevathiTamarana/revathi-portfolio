@@ -1,3 +1,4 @@
+```tsx
 export const portfolio = {
   name: "Revathi Tamarana",
 
@@ -134,7 +135,8 @@ export const portfolio = {
 
   links: {
     email: "YOUR_EMAIL@example.com",
-    linkedin: "https://www.linkedin.com/",
-    github: "https://github.com/",
+    linkedin: "https://www.linkedin.com/in/revathi-tamarana-8a5aab2b7/",
+    github: "https://github.com/RevathiTamarana",
   },
 };
+```
