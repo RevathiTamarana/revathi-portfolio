@@ -1,4 +1,4 @@
-```tsx
+
 export const portfolio = {
   name: "Revathi Tamarana",
 
@@ -139,4 +139,3 @@ export const portfolio = {
     github: "https://github.com/RevathiTamarana",
   },
 };
-```
